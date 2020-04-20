@@ -4,5 +4,5 @@ class Cat
 end
 
 jay_z = Cat.new
-jay_z.meow = "Shawn Carter"
+jay_z.meow = "meow!"
 jay_z.meow
