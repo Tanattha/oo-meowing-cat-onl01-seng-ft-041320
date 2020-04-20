@@ -1,8 +1,8 @@
 ## code your solution here. 
 class Cat
-  attr_accessor :meow
+  attr_accessor :name
 end
 
 maru = Cat.new
-jay_z.meow = "meow!"
-jay_z.meow
+maru.name = "Maru"
+maru.name
