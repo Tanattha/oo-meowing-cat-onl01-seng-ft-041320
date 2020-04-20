@@ -1,7 +1,7 @@
 ## code your solution here. 
 class Cat
   attr_accessor :name
-  puts maru.meow
+  puts "#{maru.meow}"
 end
 
 maru = Cat.new
