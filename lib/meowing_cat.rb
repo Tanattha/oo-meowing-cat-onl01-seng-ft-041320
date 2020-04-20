@@ -10,4 +10,4 @@ maru.name = "Maru"
 maru.name
 maru.meow = "meow!"
 
-puts maru.meow
+maru.meow
